@@ -1,0 +1,3 @@
+[submodule "inhwa_warehouse"]
+	path = inhwa_warehouse
+	url = https://github.com/mainbong/inhwa_warehouse.git
